@@ -1,0 +1,15 @@
+D:\Обучение\seminar 22.08.23\task_018\bin\Debug\net6.0\task_018.exe
+D:\Обучение\seminar 22.08.23\task_018\bin\Debug\net6.0\task_018.deps.json
+D:\Обучение\seminar 22.08.23\task_018\bin\Debug\net6.0\task_018.runtimeconfig.json
+D:\Обучение\seminar 22.08.23\task_018\bin\Debug\net6.0\task_018.dll
+D:\Обучение\seminar 22.08.23\task_018\bin\Debug\net6.0\task_018.pdb
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.csproj.AssemblyReference.cache
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.AssemblyInfoInputs.cache
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.AssemblyInfo.cs
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.csproj.CoreCompileInputs.cache
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.dll
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\refint\task_018.dll
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.pdb
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\task_018.genruntimeconfig.cache
+D:\Обучение\seminar 22.08.23\task_018\obj\Debug\net6.0\ref\task_018.dll
